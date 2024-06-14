@@ -11,7 +11,7 @@
 	background-repeat: no-repeat;
 	width: 100%;
 	height: 56vh;
-	background-image: linear-gradient(rgba(0, 0, 0, 0.515), rgba(0, 0, 0, 0.515)), url(popular-indian-dishes-cuisine.jpg);
+	background-image: linear-gradient(rgba(0, 0, 0, 0.515), rgba(0, 0, 0, 0.515)), url(Images/popular-indian-dishes-cuisine.jpg);
 }
 
 nav {
@@ -152,17 +152,17 @@ nav {
 }
 
 .card1 {
-	background-image: url(rata.jpg);
+	background-image: url(Images/rata.jpg);
 	background-size: cover;
 }
 
 .card2 {
-	background-image: url(dini.jpg);
+	background-image: url(Images/dini.jpg);
 	background-size: cover;
 }
 
 .card3 {
-	background-image: url(club.jpg);
+	background-image: url(Images/club.jpg);
 	background-size: cover;
 }
 
@@ -229,22 +229,22 @@ nav {
 }
 
 .ccard1 {
-	background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(0, 0, 0)), url(cafe.jpg);
+	background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(0, 0, 0)), url(Images/cafe.jpg);
 	background-size: cover;
 }
 
 .ccard2 {
-	background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(0, 0, 0)), url(lux.jpg);
+	background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(0, 0, 0)), url(Images/lux.jpg);
 	background-size: cover;
 }
 
 .ccard3 {
-	background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(0, 0, 0)), url(pub.jpg);
+	background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(0, 0, 0)), url(Images/pub.jpg);
 	background-size: cover;
 }
 
 .ccard4 {
-	background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(0, 0, 0)), url(roof.jpg);
+	background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(0, 0, 0)), url(Images/roof.jpg);
 	background-size: cover;
 }
 .Card>div:hover{
